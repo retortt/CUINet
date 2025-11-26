@@ -10,11 +10,17 @@ This repository provides the **dataset** and **prediction results** used in our 
 
 ![curves](images/Figure_7.jpg)
 
-<center><b>Qualitative comparison of different COD methods. </b></center>
+<p align="center">
+<b>Qualitative comparison of different COD methods.</b>
+</p>
 
+---
 ![curves](images/curves.png)
 
-<center><b>The PR curves (first row) and F-measure curves (second row) of COD-related competitors on three popular datasets. The curve for our model is shown as a solid red line. </b></center>
+<p align="center">
+<b>The PR curves (first row) and F-measure curves (second row) of COD-related competitors on three popular datasets. The curve for our model is shown as a solid red line. </b>
+</p>
+
 
 ## Contents
 
